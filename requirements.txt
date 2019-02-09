@@ -17,3 +17,4 @@ networkx==2.2
 flask==1.0.2
 plotly==3.6.1
 dash==0.36.0
+cmake==3.13.3
